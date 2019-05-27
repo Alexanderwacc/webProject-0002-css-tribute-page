@@ -1,0 +1,61 @@
+html,
+body {
+  background: #efeff5;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  font-size: 1rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+article {
+  margin: 50px 30px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+#sub-title {
+  font-size: 1rem;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+  box-sizing: border-box;
+  justify-content: center;
+}
+#image {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  max-width: 800px;
+  display: block;
+}
+
+ul {
+  max-width: 50%;
+  margin: 0 auto 10px auto;
+  line-height: 1.5;
+}
+
+li {
+  margin: 10px 0;
+  display: list-item;
+  text-align: left;
+}
+
+#tribute-info {
+  width: 100%;
+  justify-content: center;
+}
+
+p#citation {
+  font-style: italic;
+  max-width: 500px;
+  text-align: left;
+  margin: 50px auto;
+}
